@@ -1258,7 +1258,7 @@
 
     <!--> 关于这个字段，可以改成相关语言的梗词之类的 <-->
 
-    <sys:String x:Key="X">手冫中冫中</sys:String>
+    <sys:String x:Key="X">玩啫啫</sys:String>
 
     <sys:String x:Key="ResourcePackNotFoundDetail">冇搵到任何資源包</sys:String>
     <sys:String x:Key="ScreenshotNotFoundDetail">冇搵到任何遊戲截图</sys:String>
